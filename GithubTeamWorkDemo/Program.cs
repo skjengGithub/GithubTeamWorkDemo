@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GithubTeamWorkDemo
 {
@@ -10,6 +6,7 @@ namespace GithubTeamWorkDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("skj1957 06142015");
         }
     }
 }
