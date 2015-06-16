@@ -15,5 +15,10 @@ namespace GithubTeamWorkDemo
         {
             Console.WriteLine("skj1957 06162015");
         }
+
+        public  static void Print_skjGH_06162015()
+        {
+            Console.WriteLine("skjGH 06162015");
+        }
     }
 }
