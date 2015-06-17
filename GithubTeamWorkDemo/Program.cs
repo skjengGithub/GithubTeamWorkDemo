@@ -9,6 +9,9 @@ namespace GithubTeamWorkDemo
             Console.WriteLine("skjGH 06132015");
             Console.WriteLine("skj1957 06142015");
             Print_skj1957_06162015();
+            Print_skjGH_06162015();
+            Test1_skj1957 test = new Test1_skj1957("skj1957 06172015");
+            test.Print();
         }
 
         public static void Print_skj1957_06162015()
